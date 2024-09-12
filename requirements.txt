@@ -3,3 +3,4 @@ numpy
 tensorflow
 matplotlib
 kaggle
+opencv-python
