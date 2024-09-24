@@ -1,2 +1,4 @@
 .venv/
 dataset/
+cv_data.csv/
+training_data.csv/
